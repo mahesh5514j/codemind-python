@@ -1,2 +1,2 @@
-n=input()
-print(n[::-1])
+n=input().split()
+print(*n[::-1],end=' ')

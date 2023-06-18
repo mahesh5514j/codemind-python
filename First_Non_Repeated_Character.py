@@ -1,5 +1,4 @@
-m=int(input())
-for i in range(m):
+for i in range(int(input())):
     n=int(input())
     a=input()
     x=[]
